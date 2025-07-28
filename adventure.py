@@ -1,5 +1,5 @@
 def intro():
-    print("👻 You wake up inside a dusty, locked room in a haunted mansion.")
+    print("👻 You wake up inside a dusty, locked room in a haunted house.")
     print("There's a door to your 'left' and a staircase leading 'down'.")
     choice = input("> ").lower()
     if choice == "left":
@@ -15,7 +15,7 @@ def library_room():
     print("A ghostly whisper says, 'Read the cursed book or take the golden key.'")
     choice = input("Do you choose 'book' or 'key'? > ").lower()
     if choice == "book":
-        print("The book curses you. You become part of the mansion. 💀")
+        print("The book curses you. You become part of the house. 💀")
         game_over()
     elif choice == "key":
         print("You grab the key and escape through a hidden door! 🔑")
