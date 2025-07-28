@@ -1,6 +1,6 @@
 # Haunted House Escape 🏚️👻
 
-A spooky text-based adventure game built in Python. Make the right choices to escape a haunted mansion — or face a chilling fate!
+A spooky text-based adventure game built in Python. Make the right choices to escape a haunted house — or face a chilling fate!
 
 ## How to Play
 
