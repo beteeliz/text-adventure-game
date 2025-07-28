@@ -39,7 +39,7 @@ def basement():
         game_over()
 
 def win():
-    print("🎉 You escaped the haunted mansion! You're free!")
+    print("🎉 You escaped the haunted house! You're free!")
 
 def game_over():
     print("💀 Game Over.")
